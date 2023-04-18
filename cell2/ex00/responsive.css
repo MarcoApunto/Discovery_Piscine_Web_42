@@ -1,0 +1,24 @@
+.div {
+
+	overflow-x: auto;
+}
+
+.table {
+	width: 100%;
+	height: 100vh;
+	border-collapse: collapse;
+}
+
+.td {
+	border: 2px solid grey;
+	width: 50%;
+	height: 100px;
+}
+
+.cell1 {
+	background-color: bisque;
+}
+
+.cell2 {
+	background-color: aqua;
+}
